@@ -1,0 +1,11 @@
+<div id="w-profile" class="m-rounded-corners">
+   <div>Name: <TMPL_var name></div>
+   <div>Birthday: <TMPL_var birthday></div>
+   <div>Company: <TMPL_var company></div>
+   <div>City: <TMPL_var city></div>
+   <div>Country: <TMPL_var country></div>
+<TMPL_if gameName>
+   <div><b>Favourite Game:</b></div>
+   <div id="favourite-game"><TMPL_var gameName></div>
+</TMPL_if>
+</div>

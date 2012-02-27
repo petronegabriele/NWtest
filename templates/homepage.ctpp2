@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Spel.nl</title>
+<style>
+#header {
+	outline: thin solid red;
+	width: 820px;
+	height: 40px;
+	top: 0px;
+	left: 0px;
+	margin:10px;
+}
+#main{
+	float:left;
+	outline: thin solid blue;
+	width: 500px;
+	height: 500px;
+	top: 70px;
+	left: 10px;
+	margin:10px;
+}
+#sidebar{
+	float:left;
+	outline: thin solid green;
+	width: 300px;
+	height: 500px;
+	top: 70px;
+	left: 600px;
+	margin:10px;
+}
+</style>
+</head>
+<body>
+<div id="header">
+	<TMPL_var header>
+</div>
+<div id="main">
+	<TMPL_var newslist>
+</div>
+<div id="sidebar">
+	<TMPL_var sidebar>
+</div>
+</body>
+</html>

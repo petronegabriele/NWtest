@@ -1,0 +1,4 @@
+<div id="w-header" class="m-rounded-corners">
+<div><img src="<TMPL_var urlLogo>"></div>
+<div><TMPL_var description></div>
+</div>

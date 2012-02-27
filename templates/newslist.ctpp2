@@ -1,0 +1,35 @@
+<div id="w-newslist" class="m-rounded-corners">
+<form method="post" action="" name="favouriteGames">
+<TMPL_if newslist>
+	<div>
+	<TMPL_loop newslist>
+	<div class="gameInfo">
+		<TMPL_if img>
+			<div><img src="<TMPL_var img>" class="gameImg"></div>
+		<TMPL_else>
+			<div><img src="http://static3.spilcdn.com/tw/img/noimage.png" class="gameImg"></div>
+		</TMPL_if>
+	
+		<div><span class="date"><b><i><TMPL_var DATE_FORMAT(date, "%d %b %Y %H:%M")></i></b></span></div>
+			<div><span><b><TMPL_var title></b> 
+			<div class="noJs"><input type="radio" name="username" value="<TMPL_var title>" /></div>
+			<A HREF="#" onClick="addFavouriteGame('<TMPL_var title>');">Add to favourites</a></div>
+			<div><TMPL_var body></div>
+			<TMPL_if publication>
+				<div><a href="<TMPL_var publication>">Main URL</a></div>
+			</TMPL_if>
+			<TMPL_if reporter>
+				<div><a href="<TMPL_var reporter_url>"><TMPL_var reporter></a></div>
+			</TMPL_if>
+ 	   </div>        
+	</TMPL_loop>
+	</div>
+</TMPL_if>
+<div class="noJs"><input type="submit" name="mysubmit" value="Click!" /></div>
+</form>
+	<div id="newslistPages" class="m-pagination">
+	<TMPL_loop pages>
+                <a href="<TMPL_var url>" onclick="return loadPage(<TMPL_var page>);"><TMPL_var page></a> 
+        </TMPL_loop>
+	</div>
+</div>

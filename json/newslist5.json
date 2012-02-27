@@ -1,0 +1,55 @@
+{
+"newslist" :
+[
+	{
+		"date"  : 1169090455,
+		"title" : "1777777777777",
+		"body"  : "Be the master of your own motor destiny in a mechanic's paradise!"
+	},
+	{
+		"date"  : 1169019722,
+		"title" : "1888888888888",
+		"body"  : "Rock it old school with this radical retro ride!"
+	},
+	{
+		"date"  : 1169010455,
+		"title" : "1999999999999",
+		"body"  : "Description for third game"
+
+	},
+	{
+		"date"  : 1168840430,
+		"title" : "200000000000",
+		"body"  : "Description for another game!"
+
+	}
+],
+"pages" : 
+[       
+	{
+                "page"  : 1,
+                "url" : "/homepage.html",
+                "title"  : "Title page 1"
+        },
+        {
+                "page"  : 2,
+                "url" : "/homepage/page2",
+                "title"  : "Title page 2"
+        },
+        {
+                "page"  : 3,
+                "url" : "/homepage/page3",
+                "title"  : "Title page 3"
+        },
+        {
+                "page"  : 4,
+                "url" : "/homepage/page4",
+                "title"  : "Title page 4"
+        },
+        {
+                "page"  : 5,
+                "url" : "/homepage/page5",
+                "title"  : "Title page 5"
+        }
+]
+}
