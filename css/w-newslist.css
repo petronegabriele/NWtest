@@ -1,0 +1,22 @@
+#w-newslist{
+    float:left;
+    padding:10px;
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+    margin:10px;
+}
+
+		#w-newslist a{ 
+			color:blue;
+		}
+		#w-newslist .gameInfo{
+			clear:both;
+			height:100px;
+		}
+		#w-newslist .gameImg{
+			float:left;
+			margin-right: 10px;
+			width:120px;
+			height:90px;
+		}

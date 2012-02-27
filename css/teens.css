@@ -1,0 +1,10 @@
+@import url("m-rounded-corners.css"); 
+@import url("m-pagination.css"); 
+
+/* State style classes */
+.noJs{
+	display: inline;
+}
+.is-updated{
+	color: #ff0000;
+}
