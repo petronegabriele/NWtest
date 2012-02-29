@@ -1,5 +1,5 @@
 function loadPage(page) {
-    $.get('http://127.0.0.1/newslistar/newslist'+page,
+    $.get('http://127.0.0.1/widget/newslist'+page,
     function (htmlResult) {
 		$("#w-newslist").replaceWith(htmlResult); 
 		$('.noJs').hide();	
