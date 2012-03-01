@@ -10,7 +10,7 @@ function loadPage(page) {
 }
 
 function addFavouriteGame(game) {
-	$.post('http://127.0.0.1/profile/profile', { username: game }, function(data) {
+	$.post('http://127.0.0.1/widget/profile', { username: game }, function(data) {
 		$('#w-profile').replaceWith(data);
 		$('#favourite-game').addClass("is-updated");
 	});

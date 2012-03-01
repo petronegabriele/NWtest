@@ -3,7 +3,7 @@
 
 %% @doc Web server for newWorld.
 
--module(newWorld_web).
+-module(nw_web).
 -author("Mochi Media <dev@mochimedia.com>").
 
 -export([start/1, stop/0, loop/2]).
