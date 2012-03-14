@@ -1,5 +1,5 @@
 set terminal png
-set output "results.png"
+set output "results-5000-1000.png"
 set title "ab -n 5000 -c 1000"
 set size 1,0.7
 
