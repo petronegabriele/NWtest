@@ -1,0 +1,333 @@
+
+=INFO REPORT==== 12-Mar-2012::10:59:59 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 12-Mar-2012::11:00:00 ===
+Starting master services on newworld@gabriele
+
+=INFO REPORT==== 12-Mar-2012::11:00:00 ===
+Loading routes from "/home/gabriele/erlang/newworld/priv/newworld.routes" ....
+
+=INFO REPORT==== 12-Mar-2012::11:00:13 ===
+GET /greeting/newslist [newworld] 200 52ms
+
+=INFO REPORT==== 12-Mar-2012::11:01:00 ===
+GET /greeting/newslist [newworld] 200 59ms
+
+=INFO REPORT==== 12-Mar-2012::11:01:00 ===
+GET /greeting/header [newworld] 200 135ms
+
+=INFO REPORT==== 12-Mar-2012::11:01:00 ===
+GET /greeting/profile [newworld] 200 134ms
+
+=INFO REPORT==== 12-Mar-2012::11:01:58 ===
+GET /greeting/header [newworld] 200 70ms
+
+=INFO REPORT==== 12-Mar-2012::11:01:58 ===
+GET /greeting/profile [newworld] 200 71ms
+
+=INFO REPORT==== 12-Mar-2012::11:01:58 ===
+GET /greeting/newslist [newworld] 200 71ms
+
+=INFO REPORT==== 12-Mar-2012::11:04:17 ===
+GET /greeting/header [newworld] 200 81ms
+
+=INFO REPORT==== 12-Mar-2012::11:04:17 ===
+GET /greeting/profile [newworld] 200 81ms
+
+=INFO REPORT==== 12-Mar-2012::11:04:17 ===
+GET /greeting/newslist [newworld] 200 82ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:27 ===
+GET /greeting/header [newworld] 200 86ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:27 ===
+GET /greeting/profile [newworld] 200 87ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:27 ===
+GET /greeting/newslist [newworld] 200 87ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/header [newworld] 200 53ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/profile [newworld] 200 54ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/newslist [newworld] 200 54ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/header [newworld] 200 53ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/profile [newworld] 200 54ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/newslist [newworld] 200 54ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/header [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/profile [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/newslist [newworld] 200 63ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/header [newworld] 200 99ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/profile [newworld] 200 100ms
+
+=INFO REPORT==== 12-Mar-2012::11:38:28 ===
+GET /greeting/newslist [newworld] 200 100ms
+
+=INFO REPORT==== 12-Mar-2012::11:40:37 ===
+GET /greeting/header [newworld] 200 78ms
+
+=INFO REPORT==== 12-Mar-2012::11:40:37 ===
+GET /greeting/profile [newworld] 200 79ms
+
+=INFO REPORT==== 12-Mar-2012::11:40:37 ===
+GET /greeting/newslist [newworld] 200 80ms
+
+=INFO REPORT==== 12-Mar-2012::11:41:34 ===
+GET /greeting/header [newworld] 200 57ms
+
+=INFO REPORT==== 12-Mar-2012::11:41:34 ===
+GET /greeting/profile [newworld] 200 58ms
+
+=INFO REPORT==== 12-Mar-2012::11:41:34 ===
+GET /greeting/newslist [newworld] 200 58ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:32 ===
+GET /greeting/header [newworld] 200 76ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:32 ===
+GET /greeting/profile [newworld] 200 77ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:32 ===
+GET /greeting/newslist [newworld] 200 77ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:41 ===
+GET /greeting/header [newworld] 200 73ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:41 ===
+GET /greeting/profile [newworld] 200 73ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:41 ===
+GET /greeting/newslist [newworld] 200 74ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/header [newworld] 200 57ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/profile [newworld] 200 58ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/newslist [newworld] 200 58ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/header [newworld] 200 70ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/profile [newworld] 200 71ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/newslist [newworld] 200 71ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/header [newworld] 200 66ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/profile [newworld] 200 66ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/newslist [newworld] 200 67ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/header [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/profile [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/newslist [newworld] 200 63ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/header [newworld] 200 70ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/profile [newworld] 200 74ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/newslist [newworld] 200 74ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/header [newworld] 200 66ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/profile [newworld] 200 66ms
+
+=INFO REPORT==== 12-Mar-2012::11:44:44 ===
+GET /greeting/newslist [newworld] 200 66ms
+
+=ERROR REPORT==== 12-Mar-2012::11:44:47 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.5942.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::11:44:47 ===
+POST /greeting/profile [newworld] 500 36ms
+
+=ERROR REPORT==== 12-Mar-2012::11:44:52 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.5961.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::11:44:52 ===
+POST /greeting/profile [newworld] 500 28ms
+
+=INFO REPORT==== 12-Mar-2012::11:45:47 ===
+GET /greeting/profile [newworld] 200 26ms
+
+=INFO REPORT==== 12-Mar-2012::11:52:26 ===
+GET /greeting/header [newworld] 200 77ms
+
+=INFO REPORT==== 12-Mar-2012::11:52:26 ===
+GET /greeting/profile [newworld] 200 77ms
+
+=INFO REPORT==== 12-Mar-2012::11:52:26 ===
+GET /greeting/newslist [newworld] 200 78ms
+
+=ERROR REPORT==== 12-Mar-2012::11:52:28 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.6912.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::11:52:28 ===
+POST /greeting/profile [newworld] 500 27ms
+
+=INFO REPORT==== 12-Mar-2012::11:52:55 ===
+GET /greeting/header [newworld] 200 81ms
+
+=INFO REPORT==== 12-Mar-2012::11:52:55 ===
+GET /greeting/newslist [newworld] 200 81ms
+
+=INFO REPORT==== 12-Mar-2012::11:52:55 ===
+GET /greeting/profile [newworld] 200 81ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:38 ===
+GET /greeting/header [newworld] 200 43ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:38 ===
+GET /greeting/newslist [newworld] 200 44ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:38 ===
+GET /greeting/profile [newworld] 200 44ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:49 ===
+GET /greeting/header [newworld] 200 40ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:49 ===
+GET /greeting/newslist [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:49 ===
+GET /greeting/profile [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:59 ===
+GET /greeting/header [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:59 ===
+GET /greeting/newslist [newworld] 200 42ms
+
+=INFO REPORT==== 12-Mar-2012::11:53:59 ===
+GET /greeting/profile [newworld] 200 42ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:00 ===
+GET /greeting/header [newworld] 200 40ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:00 ===
+GET /greeting/newslist [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:00 ===
+GET /greeting/profile [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:04 ===
+GET /greeting/header [newworld] 200 48ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:04 ===
+GET /greeting/newslist [newworld] 200 49ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:04 ===
+GET /greeting/profile [newworld] 200 49ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:43 ===
+GET /greeting/header [newworld] 200 44ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:43 ===
+GET /greeting/newslist [newworld] 200 44ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:43 ===
+GET /greeting/profile [newworld] 200 45ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:44 ===
+GET /greeting/header [newworld] 200 46ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:44 ===
+GET /greeting/newslist [newworld] 200 46ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:44 ===
+GET /greeting/profile [newworld] 200 46ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:57 ===
+GET /greeting/header [newworld] 200 40ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:57 ===
+GET /greeting/newslist [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:57 ===
+GET /greeting/profile [newworld] 200 41ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:58 ===
+GET /greeting/header [newworld] 200 43ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:58 ===
+GET /greeting/newslist [newworld] 200 44ms
+
+=INFO REPORT==== 12-Mar-2012::11:54:58 ===
+GET /greeting/profile [newworld] 200 44ms
+
+=INFO REPORT==== 12-Mar-2012::11:56:38 ===
+GET /greeting/header [newworld] 200 70ms
+
+=INFO REPORT==== 12-Mar-2012::11:56:38 ===
+GET /greeting/profile [newworld] 200 71ms
+
+=INFO REPORT==== 12-Mar-2012::11:56:38 ===
+GET /greeting/newslist [newworld] 200 71ms

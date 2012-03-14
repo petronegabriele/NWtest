@@ -1,0 +1,54 @@
+
+=INFO REPORT==== 9-Mar-2012::19:13:20 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 9-Mar-2012::19:13:20 ===
+Starting master services on newworld@gabriele
+
+=INFO REPORT==== 9-Mar-2012::19:13:20 ===
+Loading routes from "/home/gabriele/erlang/newworld/priv/newworld.routes" ....
+
+=INFO REPORT==== 9-Mar-2012::19:26:25 ===
+GET /greeting/newslist [newworld] 200 61ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:25 ===
+GET /greeting/profile [newworld] 200 66ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:25 ===
+GET /greeting/header [newworld] 200 66ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:27 ===
+GET /greeting/header [newworld] 200 77ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:27 ===
+GET /greeting/profile [newworld] 200 79ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:27 ===
+GET /greeting/newslist [newworld] 200 79ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:27 ===
+GET /greeting/header [newworld] 200 69ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:27 ===
+GET /greeting/profile [newworld] 200 70ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:27 ===
+GET /greeting/newslist [newworld] 200 71ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:28 ===
+GET /greeting/header [newworld] 200 99ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:28 ===
+GET /greeting/profile [newworld] 200 100ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:28 ===
+GET /greeting/newslist [newworld] 200 100ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:29 ===
+GET /greeting/header [newworld] 200 73ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:29 ===
+GET /greeting/profile [newworld] 200 74ms
+
+=INFO REPORT==== 9-Mar-2012::19:26:29 ===
+GET /greeting/newslist [newworld] 200 74ms

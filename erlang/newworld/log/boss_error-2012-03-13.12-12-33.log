@@ -1,0 +1,21 @@
+
+=INFO REPORT==== 13-Mar-2012::12:12:33 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 13-Mar-2012::12:12:33 ===
+Starting master services on newworld@gabriele
+
+=INFO REPORT==== 13-Mar-2012::12:12:33 ===
+Loading routes from "/home/gabriele/erlang/newworld/priv/newworld.routes" ....
+
+=INFO REPORT==== 13-Mar-2012::12:12:37 ===
+GET /greeting/profile [newworld] 200 79ms
+
+=INFO REPORT==== 13-Mar-2012::12:12:37 ===
+GET /greeting/header [newworld] 200 79ms
+
+=INFO REPORT==== 13-Mar-2012::12:12:37 ===
+GET /greeting/newslist [newworld] 200 79ms
+
+=INFO REPORT==== 13-Mar-2012::12:12:37 ===
+GET /greeting/newslist [newworld] 200 49ms

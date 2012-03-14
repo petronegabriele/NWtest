@@ -1,0 +1,189 @@
+
+=INFO REPORT==== 12-Mar-2012::12:00:00 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 12-Mar-2012::12:00:00 ===
+Starting master services on newworld@gabriele
+
+=INFO REPORT==== 12-Mar-2012::12:00:00 ===
+Loading routes from "/home/gabriele/erlang/newworld/priv/newworld.routes" ....
+
+=ERROR REPORT==== 12-Mar-2012::12:00:15 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.164.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::12:00:15 ===
+POST /greeting/profile [newworld] 500 10ms
+
+=ERROR REPORT==== 12-Mar-2012::12:00:16 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.174.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::12:00:16 ===
+POST /greeting/profile [newworld] 500 32ms
+
+=ERROR REPORT==== 12-Mar-2012::12:00:25 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.199.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::12:00:25 ===
+POST /greeting/profile [newworld] 500 29ms
+
+=ERROR REPORT==== 12-Mar-2012::12:01:34 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.344.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::12:01:34 ===
+POST /greeting/profile [newworld] 500 27ms
+
+=INFO REPORT==== 12-Mar-2012::12:36:00 ===
+GET /greeting/newslist [newworld] 200 82ms
+
+=INFO REPORT==== 12-Mar-2012::12:36:00 ===
+GET /greeting/header [newworld] 200 104ms
+
+=INFO REPORT==== 12-Mar-2012::12:36:00 ===
+GET /greeting/profile [newworld] 200 103ms
+
+=ERROR REPORT==== 12-Mar-2012::12:36:02 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['POST',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.4507.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::12:36:02 ===
+POST /greeting/profile [newworld] 500 37ms
+
+=INFO REPORT==== 12-Mar-2012::12:36:16 ===
+GET /greeting/header [newworld] 200 60ms
+
+=INFO REPORT==== 12-Mar-2012::12:36:16 ===
+GET /greeting/profile [newworld] 200 60ms
+
+=INFO REPORT==== 12-Mar-2012::12:36:16 ===
+GET /greeting/newslist [newworld] 200 61ms
+
+=INFO REPORT==== 12-Mar-2012::12:39:35 ===
+GET /greeting/header [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::12:39:35 ===
+GET /greeting/profile [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::12:39:35 ===
+GET /greeting/newslist [newworld] 200 62ms
+
+=ERROR REPORT==== 12-Mar-2012::12:57:05 ===
+{function_clause,
+    [{newworld_greeting_controller,profile,
+         ['GET',[],
+          {newworld_greeting_controller,
+              {simple_bridge_request_wrapper,misultin_request_bridge,
+                  {misultin_req,<0.7086.0>,36889},
+                  false,[],[],none}}]},
+     {boss_web_controller,execute_action,5},
+     {boss_web_controller,process_request,5},
+     {timer,tc,3},
+     {boss_web_controller,handle_request,3}]}
+
+=ERROR REPORT==== 12-Mar-2012::12:57:05 ===
+GET /greeting/profile [newworld] 500 52ms
+
+=INFO REPORT==== 12-Mar-2012::12:57:05 ===
+GET /greeting/header [newworld] 200 58ms
+
+=INFO REPORT==== 12-Mar-2012::12:57:05 ===
+GET /greeting/newslist [newworld] 200 59ms
+
+=INFO REPORT==== 12-Mar-2012::12:57:08 ===
+POST /greeting/profile [newworld] 200 31ms
+
+=INFO REPORT==== 12-Mar-2012::12:57:20 ===
+POST /greeting/profile [newworld] 200 35ms
+
+=INFO REPORT==== 12-Mar-2012::12:58:10 ===
+GET /greeting/header [newworld] 200 57ms
+
+=INFO REPORT==== 12-Mar-2012::12:58:10 ===
+GET /greeting/profile [newworld] 200 58ms
+
+=INFO REPORT==== 12-Mar-2012::12:58:10 ===
+GET /greeting/newslist [newworld] 200 59ms
+
+=INFO REPORT==== 12-Mar-2012::13:18:48 ===
+GET /greeting/header [newworld] 200 68ms
+
+=INFO REPORT==== 12-Mar-2012::13:18:48 ===
+GET /greeting/profile [newworld] 200 69ms
+
+=INFO REPORT==== 12-Mar-2012::13:18:48 ===
+GET /greeting/newslist [newworld] 200 69ms
+
+=INFO REPORT==== 12-Mar-2012::13:18:50 ===
+POST /greeting/profile [newworld] 200 35ms
+
+=INFO REPORT==== 12-Mar-2012::13:22:19 ===
+POST /greeting/profile [newworld] 200 35ms
+
+=INFO REPORT==== 12-Mar-2012::13:22:20 ===
+POST /greeting/profile [newworld] 200 37ms
+
+=INFO REPORT==== 12-Mar-2012::13:23:31 ===
+GET /greeting/header [newworld] 200 64ms
+
+=INFO REPORT==== 12-Mar-2012::13:23:31 ===
+GET /greeting/profile [newworld] 200 65ms
+
+=INFO REPORT==== 12-Mar-2012::13:23:31 ===
+GET /greeting/newslist [newworld] 200 83ms
+
+=INFO REPORT==== 12-Mar-2012::13:23:32 ===
+GET /greeting/header [newworld] 200 60ms
+
+=INFO REPORT==== 12-Mar-2012::13:23:32 ===
+GET /greeting/profile [newworld] 200 62ms
+
+=INFO REPORT==== 12-Mar-2012::13:23:32 ===
+GET /greeting/newslist [newworld] 200 62ms

@@ -1,0 +1,32 @@
+<div id="w-newslist" class="m-rounded-corners">
+<form method="post" action="" name="favouriteGames">
+{% if newslist %}
+	<div>
+	{% for game in newslist %}
+	<div class="gameInfo">
+		{% if game.img %}
+			<div><img src="{{ game.img }}" class="gameImg"></div>
+		{% else %}
+			<div><img src="http://static3.spilcdn.com/tw/img/noimage.png" class="gameImg"></div>
+		{% endif %}
+
+		<div><span class="date"><b><i><TMPL_var DATE_FORMAT(date, "%d %b %Y %H:%M")></i></b></span></div>
+			<div><span><b>{{ game.title }}</b> 
+			<div class="noJs"><input type="radio" name="username" value="{{ game.title }}" /></div>
+			<A HREF="#" onClick="addFavouriteGame('{{ game.title }}');">Add to favourites</a></div>
+			<div>{{ game.body }}</div>
+			{% if game.link %}
+				<div><a href="{{ game.link }}">Link</a></div>
+			{% endif %}
+ 	   </div>        
+	{% endfor %}
+	</div>
+{% endif %}
+<div class="noJs"><input type="submit" name="mysubmit" value="Click!" /></div>
+</form>
+	<div id="newslistPages" class="m-pagination">
+	{% for page in pages %}
+                <a href="{{ page.url }}" onclick="return loadPage({{ page.num }});">{{ page.num }}</a> 
+	{% endfor %}
+	</div>
+</div>
