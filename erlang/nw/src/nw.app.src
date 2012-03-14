@@ -1,0 +1,9 @@
+%% -*- erlang -*-
+{application, nw,
+ [{description, "nw"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {mod, {'nw_app', []}},
+  {env, []},
+  {applications, [kernel, stdlib, crypto]}]}.

@@ -1,0 +1,10 @@
+<div id="w-profile" class="m-rounded-corners">
+   <div>Name: {{ name }}</div>
+   <div>Birthday: {{ birthday }}</div>
+   <div>City: {{ city }}</div>
+   <div>Country: {{ country }}</div>
+{% if gameName %}
+   <div><b>Favourite Game:</b></div>
+   <div id="favourite-game">{{ gameName }}</div>
+{% endif %}
+</div>
